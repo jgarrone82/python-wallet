@@ -1,0 +1,4 @@
+Fecha: Sat May  2 14:59:56 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario: DU2nEa22DE ! Cantidad: 10 ! Monto en USD: 8868.17000000 !
+Fecha: Sat May  2 15:10:43 2020 ! Moneda: BTC ! Operación: Envío Criptomoneda ! Código de usuario: ybDcbJfmnr ! Cantidad: 5 ! Monto en USD: 8859.05000000 !
+Fecha: Sat May  2 15:12:11 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario: ZQsLbIGgdx ! Cantidad: 60 ! Monto en USD: 8862.30000000 !
+Fecha: Sat May  2 16:33:32 2020 ! Moneda: ETH ! Operación: Recepción Criptomoneda ! Código de usuario: hbc2y2rAnC ! Cantidad: 150 ! Monto en USD: 213.35000000 !
